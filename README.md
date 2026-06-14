@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @KJWHUB
-- 안녕하세요 웹 개발자 권중운 입니다.
+👋 Hi, I’m @KJWHUB
+
+안녕하세요 웹 개발자 권중운 입니다.
 
 ### 📝 Portfolio - [Here](https://jungwoonkwon.com/)
 ### 📜 Blog - [Here](https://blog.jungwoonkwon.com/)
